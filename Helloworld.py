@@ -1,1 +1,2 @@
-print("helloworld")
+name="insaf"
+print("hello ", name)
